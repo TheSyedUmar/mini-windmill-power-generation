@@ -3,6 +3,15 @@
 ## Overview
 This project is a mini windmill based renewable energy system designed to generate power for smart traffic signal lighting. It demonstrates how wind energy can be converted into electrical energy and used for small-scale smart applications.
 
+## Project Images
+
+### Windmill Model
+![Windmill Model](images/windmill-model.jpg)
+
+### Circuit Diagram
+![Circuit Diagram](images/circuit-diagram.jpg)
+
+
 ## Features
 - Wind energy based power generation
 - Renewable and eco-friendly system
